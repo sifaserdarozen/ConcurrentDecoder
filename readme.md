@@ -15,7 +15,7 @@ make
 ### How to run
 Experiment may be performed through
 ```
-./exe/TestMassDecoder
+./bin/test
 ```
 
 ### License
