@@ -1,4 +1,4 @@
-# ConcurrentDecoder
+# ConcurrentDecoder [![Build Status](https://travis-ci.org/sifaserdarozen/ConcurrentDecoder.png)](https://travis-ci.org/sifaserdarozen/ConcurrentDecoder)
 multi channel decoder experiment
 
 ### What is it?
