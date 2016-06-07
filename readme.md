@@ -19,6 +19,6 @@ Experiment may be performed through
 ```
 
 ### License
-Code of g722 decoder is highy resembles to ITU reference implementation that should be trated as IEFT wishes.
+Code of g722 decoder is highy resembles to ITU reference implementation that should be trated as ITU wishes.
 All remaining part is MIT.
 
